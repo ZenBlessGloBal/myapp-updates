@@ -1,0 +1,5 @@
+<update>
+    <version>2.0</version>
+    <url>https://raw.githubusercontent.com/yourusername/myapp-updates/main/update-2.0.zip</url>
+    <description>This update includes new features, performance improvements, and bug fixes.</description>
+</update>
