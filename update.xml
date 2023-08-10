@@ -1,5 +1,5 @@
 <update>
-    <version>2.0</version>
-    <url>https://raw.githubusercontent.com/yourusername/myapp-updates/main/update-2.0.zip</url>
-    <description>This update includes new features, performance improvements, and bug fixes.</description>
+    <version>2.0</version> <!-- Phiên bản mới của ứng dụng -->
+    <url>https://raw.githubusercontent.com/ZenBlessGloBal/myapp-updates/main/update-2.0.zip</url> <!-- Đường dẫn tới tệp .zip chứa phiên bản cập nhật -->
+    <description>This update includes new features, performance improvements, and bug fixes.</description> <!-- Mô tả về các cải tiến trong phiên bản cập nhật -->
 </update>
