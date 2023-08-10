@@ -1,5 +1,7 @@
-<update>
-    <version>2.0</version>
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>2.0.0.0</version>
     <url>https://github.com/ZenBlessGloBal/myapp-updates/raw/main/TestAutoUpdate.zip</url>
-    <description>This update includes new features, performance improvements, and bug fixes.</description>
-</update>
+    <changelog>https://laptrinhvb.net</changelog>
+    <mandatory>false</mandatory>
+</item>
